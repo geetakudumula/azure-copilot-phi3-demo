@@ -6,4 +6,4 @@ Built with:
 Streamlit UI
 Transformers + torch
 Hosted on Hugging Face Spaces
-Try it live 👉 Click here
+Try it live 👉 Click here: https://huggingface.co/spaces/GeetaAIVisionary/azure-copilot-for-architects-powered-by-phi3
