@@ -7,3 +7,6 @@ Streamlit UI
 Transformers + torch
 Hosted on Hugging Face Spaces
 Try it live 👉 Click here: https://huggingface.co/spaces/GeetaAIVisionary/azure-copilot-for-architects-powered-by-phi3
+
+Built by:
+ "Built by Geeta Kudumula – AI Architect passionate about Azure + LLMs"
