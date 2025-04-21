@@ -24,24 +24,22 @@ This tool serves as a smart, interactive AI assistant tailored for **Cloud Solut
 
 ## 📸 Screenshots
 
-### 🔹 1. Model Load in Azure ML Studio
-> Loaded Phi-3 model inside Jupyter Notebook running on Azure Machine Learning compute instance.
-
-<img src="./azure-copilot-phi-3-jupyter_load.png" width="700"/>
-
----
-
-### 🔹 2. Prompt Execution Output
-> Successfully executed a prompt using Phi-3 and received a well-structured answer.
-
-<img src="./azure-copilot-phi-3-prompt_output.png" width="700"/>
+### 🔹 1. Model Load in Azure ML Studio  
+Loaded Phi-3 model inside Jupyter Notebook running on Azure Machine Learning compute instance.  
+![Model Load in Jupyter](./1_azureml_model_jupyter_load.png)
 
 ---
 
-### 🔹 3. Deployed on Hugging Face Spaces
-> Streamlit app hosted and running live on Hugging Face using Phi-3 model.
+### 🔹 2. Prompt Execution Output  
+Successfully executed a prompt using Phi-3 and received a structured response.  
+![Prompt Output](./2_phi3_prompt_output.png)
 
-<img src="./azure-copilot-phi3-hspace-image.png" width="700"/>
+---
+
+### 🔹 3. Deployed on Hugging Face Spaces  
+Streamlit app hosted and running live on Hugging Face using Phi-3 model.  
+![Hugging Face App](./3_huggingface_app.png)
+
 
 ---
 
